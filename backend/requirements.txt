@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+pytesseract
+pillow
+sentence-transformers
+chromadb
+groq
+python-dotenv
