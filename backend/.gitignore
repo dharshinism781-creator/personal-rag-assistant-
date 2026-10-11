@@ -4,4 +4,4 @@ uploads/
 chroma_db/
 timeline.json
 __pycache__/
-node_modules/g
+node_modules/
